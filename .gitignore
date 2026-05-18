@@ -1,0 +1,46 @@
+# Environment & secrets
+.env
+.env.*
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+*.egg-info/
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Generated / cached data
+backend/tts_cache/
+backend/character_images/
+backend/char_ref_audio/
+backend/voxtral_usage.jsonl
+backend/voxtral_usage_summary.json
+backend/video_metadata/
+backend/__pycache__/
+backend/scripts/__pycache__/
+
+# Raw audio / video files
+*.mp3
+*.mp4
+*.wav
+*.webm
+*.m4a
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
