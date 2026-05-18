@@ -6,7 +6,7 @@ World's #1 First Talk2Video with Voice Cloning Auto Character Generation !
 
 ToonTalk lets children *talk to* their favourite cartoon characters. Upload any anime or cartoon episode — the system automatically figures out who's in it, clones their voice directly from the video, and when a kid asks a question the character answers back **in their own cloned voice** with a **full anime-style banner** sliding up over the paused video.
 
-Works for **any cartoon in any language** — Hindi dubs, English originals, whatever you upload.
+Works for **any cartoon in any language Multilingual** — Hindi dubs, English originals, whatever you upload.
 
 ---
 
