@@ -28,7 +28,7 @@ CHAR_REF_FILES = {
 
 OUTPUT_FILE = BASE_DIR / "voice_ids.json"
 
-MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY", "Your Misral API Key")
+MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY", "Your Mistral API Key")
 
 
 def main():
